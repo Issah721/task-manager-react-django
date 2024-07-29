@@ -13,6 +13,9 @@ First, clone the repository from GitHub:
 ```bash
 git clone https://github.com/Issah721/task-manager-react-django.git
 ```
+## Configuration
+
+After downloading the files, move the `todo` file to the `backend` directory and place the `src` and `public` folders into the `frontend` directory.
 
 ### 2. **Navigate to the Project Directory**
 
@@ -362,10 +365,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-## Configuration
-
-After downloading the files, move the `todo` file to the `backend` directory and place the `src` and `public` folders into the `frontend` directory.
 
 ## Video Overview
 
